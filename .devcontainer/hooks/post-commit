@@ -1,1 +1,1 @@
-zip test.zip . -r -q
+zip submission.zip . -r -q
